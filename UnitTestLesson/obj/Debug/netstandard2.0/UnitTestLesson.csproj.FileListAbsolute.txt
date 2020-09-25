@@ -1,0 +1,9 @@
+C:\Users\glebo\source\repos\UnitTestLesson\UnitTestLesson\bin\Debug\netstandard2.0\UnitTestLesson.deps.json
+C:\Users\glebo\source\repos\UnitTestLesson\UnitTestLesson\bin\Debug\netstandard2.0\UnitTestLesson.dll
+C:\Users\glebo\source\repos\UnitTestLesson\UnitTestLesson\bin\Debug\netstandard2.0\UnitTestLesson.pdb
+C:\Users\glebo\source\repos\UnitTestLesson\UnitTestLesson\obj\Debug\netstandard2.0\UnitTestLesson.csprojAssemblyReference.cache
+C:\Users\glebo\source\repos\UnitTestLesson\UnitTestLesson\obj\Debug\netstandard2.0\UnitTestLesson.AssemblyInfoInputs.cache
+C:\Users\glebo\source\repos\UnitTestLesson\UnitTestLesson\obj\Debug\netstandard2.0\UnitTestLesson.AssemblyInfo.cs
+C:\Users\glebo\source\repos\UnitTestLesson\UnitTestLesson\obj\Debug\netstandard2.0\UnitTestLesson.csproj.CoreCompileInputs.cache
+C:\Users\glebo\source\repos\UnitTestLesson\UnitTestLesson\obj\Debug\netstandard2.0\UnitTestLesson.dll
+C:\Users\glebo\source\repos\UnitTestLesson\UnitTestLesson\obj\Debug\netstandard2.0\UnitTestLesson.pdb
